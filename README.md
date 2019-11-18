@@ -1,5 +1,5 @@
 # api-doc-gen
-Get swagger.json from localhost, and generate unline api document.
+Get swagger.json, generate unline api document.
 
  1. Clone this project to you computer.
  2. Start your swagger-integrated application.
